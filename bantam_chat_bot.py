@@ -1,7 +1,7 @@
 import requests
 
 # === Configuration ===
-API_KEY = "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"  # TODO: Paste your API key here
+API_KEY = ""  # TODO: Paste your API key here
 API_URL = "https://api.groq.com/openai/v1/chat/completions"
 MODEL = "llama3-8b-8192"
 
