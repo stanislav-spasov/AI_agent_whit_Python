@@ -4,7 +4,7 @@ An intelligent, customizable AI chatbot built with the Groc API. This chatbot ca
 
 ## 🚀 Features
 
-- 🔌 Seamless integration with the [Groc API](https://groq.com/)
+- 🔌 Seamless integration with the [Groq API](https://groq.com/)
 - 💬 Real-time conversational interface
 - 🧠 Context-aware responses
 - 🔒 Secure API usage with token-based auth
